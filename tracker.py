@@ -3,7 +3,7 @@ import phonenumbers
 from phonenumbers import geocoder
 from phonenumbers import carrier
 
-import folium
+import folium 
 
 from opencage.geocoder import OpenCageGeocode
 

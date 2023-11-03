@@ -13,6 +13,10 @@ def impress_crush():
         "Do you have a Band-Aid? I just scraped my knee falling for you.",
         "Are you a camera? Because every time I look at you, I smile.",
         "Is your name Wi-Fi? Because I'm really feeling a connection."
+        "The moment I saw the you, I deleted google because I knew the search is over."
+        "Excuse me! But by GPS keeps pointing to you."
+        "Hello! Are you the Angel God sent to me?"
+        "Please I lost my number can I have yours?"
     ]
 
     pickup_line = random.choice(pickup_lines)

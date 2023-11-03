@@ -1,4 +1,4 @@
-from datetime import datetime   
+from datetime import datetime
 from playsound import playsound
 alarm_time = input("Enter the time of alarm to be set:HH:MM:SS:(AM/PM)\n")
 alarm_hour = alarm_time[0:2]

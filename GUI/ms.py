@@ -20,10 +20,10 @@ def add_item():
     invoice_item = [qty, desc, price, line_total]
     tree.insert('',0, values=invoice_item)
     clear_item()
-    
+
     invoice_list.append(invoice_item)
 
-    
+
 def new_invoice():
     first_name_entry.delete(0, tkinter.END)
     last_name_entry.delete(0, tkinter.END)

@@ -3,7 +3,7 @@ import phonenumbers
 from phonenumbers import geocoder
 from phonenumbers import carrier
 
-import folium 
+import folium
 
 from opencage.geocoder import OpenCageGeocode
 
@@ -13,7 +13,7 @@ number = input("Enter the PhoneNumber with the country code : ")
 phoneNumber = phonenumbers.parse(number)
 
 # Storing the API Key in the Key variable
-Key = "d33b7c5100ce415993b9a2b6d9d5bf84" #generate your api https://opencagedata.com/api
+Key = "YOUR API KEY" #generate your api https://opencagedata.com/api
 
 # Using the geocoder module of phonenumbers to print the Location in console
 yourLocation = geocoder.description_for_number(phoneNumber,"en")

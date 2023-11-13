@@ -1,0 +1,13 @@
+Goat
+Cow
+Dog
+Pig
+Cat
+Sheep
+Monkey
+Ape
+Worm
+Crocodile
+Aligator
+Frog
+Mouse

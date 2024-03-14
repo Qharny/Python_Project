@@ -1,13 +1,18 @@
-Goat
-Cow
-Dog
-Pig
-Cat
-Sheep
-Monkey
+Goat 🐐
+Cow 🐄
+Dog 🐩
+Pig 🐖
+Cat 🐈
+Sheep 🐑
+Monkey 🐒
 Ape
-Worm
-Crocodile
+Worm 🐛
+Crocodile 🐊
 Aligator
-Frog
-Mouse
+Frog 🐸
+Mouse 🐁
+crab 🦀
+fish 🐟
+bear 🐻
+tiger 🐅
+
